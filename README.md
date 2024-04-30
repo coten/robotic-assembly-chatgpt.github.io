@@ -1,1 +1,1 @@
-# roboticassemblywithchatgpt.github.io
+# robotic-assembly-chatgpt.github.io
